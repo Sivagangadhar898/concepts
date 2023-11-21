@@ -7,5 +7,8 @@ echo "$PERSON2:Hi GOOD MORNING $PERSON1"
 echo "HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII"
 echo "we will win"
 echo "hello"
+echo "hellohiii"
+echo "helloheyhellohello"
+
 
 
